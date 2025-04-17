@@ -15,3 +15,5 @@ to learn more, click the link:
 [My Portfolio](https://kaitlynalley03.wixsite.com/my-site)
 
 also this is my work from [week 10](Week-13-HW.html)
+
+link to my latest blog post: [blog post 1](blog.md)
