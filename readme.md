@@ -8,3 +8,6 @@ a new project.
 1. have caffiene 
 2. have no food in your system
 3. sit by your friend
+
+to learn more, click the link:
+[My Portfolio](https://kaitlynalley03.wixsite.com/my-site)
